@@ -1,0 +1,11 @@
+[user]
+	name = Laureano Sanchez
+	email = laureano.gabriel.aguiar@ibm.com
+[core]
+	excludesfile = /Users/laureanosanchez/.gitignore
+	editor = vim
+	autocrlf = input
+	compression = 0
+[uploadpack]
+	allowFilter = true
+
